@@ -76,7 +76,7 @@ The recommender selects items that minimize this gap.
 ## Installation
 
 ### Clone Repository
-git clone https://github.com/your-username/msv-recommender.git
+git clone https://github.com/subhamsinhadev/Meal-State-Gap-Optimization-MSV-Recommendation-System.git
 
 cd msv-recommender
 
